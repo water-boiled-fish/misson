@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">kaohe</string>
+    <string name="title_activity_scrolling_item_">该项目目前的进度</string>
+
+    <string name="large_text">
+        该项目的具体介绍界面
+
+        目前已经完成的内容：
+
+        实现自定义ToolBar
+
+        实现列表下拉刷新
+
+        实现多页滑动效果
+
+        侧滑栏效果
+
+        加载效果
+
+        具有网络请求(写出垃圾请求)
+
+        JSON数据获取与解析(解析未完成)
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation__drawer_">Navigation_Drawer_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_navigation_">Navigation_Activity</string>
+    <string name="title_activity_navigation">Navigation_Activity</string>
+    <string name="title_activity_useless">UselessActivity</string>
+</resources>
